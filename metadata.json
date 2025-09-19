@@ -1,0 +1,5 @@
+{
+  "name": "Web App Hub",
+  "description": "A personal dashboard to collect and launch your favorite web applications. Click on an icon to open the corresponding web app in a new tab.",
+  "requestFramePermissions": []
+}
