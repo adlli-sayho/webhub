@@ -106,4 +106,16 @@ export const WEB_APPS: WebApp[] = [
         </svg>
     ),
   },
+      {
+    id: 'Image Composer',
+    title: 'Image Composer',
+    description: 'Image Composer',
+    url: 'https://ai.studio/apps/drive/1boHCB6ssWC1c4Gr5oi63f6nu1eIJ0q0V',
+    icon: (
+        <svg xmlns="http://www.w3.org/2000/svg" className="h-16 w-16 text-cyan-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
+          <path strokeLinecap="round" strokeLinejoin="round" d="M15.75 6.375H8.25A4.125 4.125 0 004.125 10.5v3A4.125 4.125 0 008.25 17.625h7.5A4.125 4.125 0 0019.875 13.5v-3A4.125 4.125 0 0015.75 6.375z" />
+          <path strokeLinecap="round" strokeLinejoin="round" d="M9.375 12l4.5-2.625v5.25L9.375 12z" />
+        </svg>
+    ),
+  },
 ];
