@@ -1,5 +1,5 @@
 // sw.js
-const CACHE_NAME = 'web-app-hub-v1';
+const CACHE_NAME = 'app-hub-v1';
 
 // On install, the service worker is installed.
 self.addEventListener('install', event => {
